@@ -22,3 +22,6 @@ Tasks:
 - Displaying the details of a College.
 - Calculating and displaying the total number of students in a College.
 - Calculating and displaying the total budget of a College.
+
+UML Class Diagram:
+<img width="1070" height="428" alt="Screenshot 2026-05-08 at 11 17 11 PM" src="https://github.com/user-attachments/assets/fc22ea3f-d312-42c1-90a4-77a9b3090d4d" />
